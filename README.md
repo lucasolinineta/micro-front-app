@@ -2,6 +2,7 @@
 
     > git clone git@github.com:lucasolinineta/micro-front-app.git
     > cd micro-front-app
+    > cd packages
 
 #### Recordar que cada XAPP debe correr por si sola, pero el container requiere que las XAPP ya esten corriendo
 
