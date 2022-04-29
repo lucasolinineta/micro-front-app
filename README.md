@@ -1,18 +1,24 @@
 # Micro Front End JS
 
-    > git clone git@github.com:lucasolinineta/js-micro-frontend.git
-    > cd js-micro-frontend
+    > git clone git@github.com:lucasolinineta/micro-front-app.git
+    > cd micro-front-app
 
 #### Recordar que cada XAPP debe correr por si sola, pero el container requiere que las XAPP ya esten corriendo
 
-    > cd cart
+    > cd dashboard (RUN IN VUE.JS)
     > npm install
     > npm start
 
-Ver http://localhost:8082/
+Ver http://localhost:8083/
+
+    > cd auth
+    > npm install
+    > npm start
+
+Ver http://localhost:8082/auth/signin / http://localhost:8082/auth/signup
 
     > cd ..
-    > cd products
+    > cd dashboard
     > npm install
     > npm start
 
