@@ -36,6 +36,7 @@ export default () => {
             onSignOut={() => setIsSignedIn(false)}
             isSignedIn={isSignedIn}
           />
+          <h1>workflow test</h1>
           <Suspense fallback={<Progress />}>
             <Switch>
               <Route path="/auth">
