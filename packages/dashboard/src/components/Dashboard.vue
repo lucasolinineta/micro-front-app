@@ -1,5 +1,4 @@
 <template>
-  <h1>workflow test</h1>
   <div class="p-grid p-fluid dashboard">
     <div class="p-col-12 p-lg-4">
       <div class="card summary">

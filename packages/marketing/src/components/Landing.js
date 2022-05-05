@@ -79,7 +79,7 @@ export default function Album() {
               color="textPrimary"
               gutterBottom
             >
-              Home Page Test workflow
+              Home Page
             </Typography>
             <Typography
               variant="h5"
